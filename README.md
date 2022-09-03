@@ -5,7 +5,7 @@ this project was made for the test. design taken from the site
 ##### @https://www.minfinchr.ru/
 
 ---
-![Alt-текст](https://github.com/islamhadjime/state-site/blob/main/img/screen.jpg "Responsive government site example")
+![Alt-текст](https://github.com/islamhadjime/-state-site/blob/main/img/screen.jpg "Responsive government site example")
 
 
 
